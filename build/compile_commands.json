@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jomana/masters_ws/src/Studying/Semester_3/3D_Sensing/Tutorials/Tutorial_2/02_opencv_filters/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/opencv4  -g   -o CMakeFiles/HelloWorld_Exec.dir/src/implementation.cpp.o -c /home/jomana/masters_ws/src/Studying/Semester_3/3D_Sensing/Tutorials/Tutorial_2/02_opencv_filters/src/implementation.cpp",
+  "file": "/home/jomana/masters_ws/src/Studying/Semester_3/3D_Sensing/Tutorials/Tutorial_2/02_opencv_filters/src/implementation.cpp"
+}
+]

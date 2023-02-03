@@ -1,0 +1,5 @@
+Window_size = 9
+sigma = 2.26274
+sigmaRange = 10
+Time_JBU = 4
+Time_IU = 2
